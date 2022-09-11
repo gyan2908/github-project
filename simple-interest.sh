@@ -2,9 +2,9 @@
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
-# Author: Gyanendra Kumar pandey
+# Author: Gyanendra Pandey
 # Addtional Authors:
-# gyan2908
+# Gyan2908
 
 # Input:
 # p, principal amount
